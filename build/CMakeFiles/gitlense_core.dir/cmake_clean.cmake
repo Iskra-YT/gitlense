@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gitlense_core.dir/src/analysis/activity.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/activity.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/analysis/contributors.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/contributors.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/analysis/history.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/history.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/analysis/hotspots.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/hotspots.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/analysis/languages.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/languages.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/analysis/line_counts.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/analysis/line_counts.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/cli/args.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/cli/args.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/cli/progress.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/cli/progress.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/core/language.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/core/language.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/core/libgit2.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/core/libgit2.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/core/repository.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/core/repository.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/core/types.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/core/types.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/core/walker.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/core/walker.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/format/chart.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/format/chart.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/format/color.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/format/color.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/format/format.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/format/format.cpp.o.d"
+  "CMakeFiles/gitlense_core.dir/src/format/table.cpp.o"
+  "CMakeFiles/gitlense_core.dir/src/format/table.cpp.o.d"
+  "libgitlense_core.a"
+  "libgitlense_core.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/gitlense_core.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

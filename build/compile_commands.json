@@ -1,0 +1,224 @@
+[
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/core/libgit2.cpp.o -c /home/iskra/gitlense/src/core/libgit2.cpp",
+  "file": "/home/iskra/gitlense/src/core/libgit2.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/core/libgit2.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/core/types.cpp.o -c /home/iskra/gitlense/src/core/types.cpp",
+  "file": "/home/iskra/gitlense/src/core/types.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/core/types.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/core/repository.cpp.o -c /home/iskra/gitlense/src/core/repository.cpp",
+  "file": "/home/iskra/gitlense/src/core/repository.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/core/repository.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/core/walker.cpp.o -c /home/iskra/gitlense/src/core/walker.cpp",
+  "file": "/home/iskra/gitlense/src/core/walker.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/core/walker.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/core/language.cpp.o -c /home/iskra/gitlense/src/core/language.cpp",
+  "file": "/home/iskra/gitlense/src/core/language.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/core/language.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/format/color.cpp.o -c /home/iskra/gitlense/src/format/color.cpp",
+  "file": "/home/iskra/gitlense/src/format/color.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/format/color.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/format/table.cpp.o -c /home/iskra/gitlense/src/format/table.cpp",
+  "file": "/home/iskra/gitlense/src/format/table.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/format/table.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/format/chart.cpp.o -c /home/iskra/gitlense/src/format/chart.cpp",
+  "file": "/home/iskra/gitlense/src/format/chart.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/format/chart.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/format/format.cpp.o -c /home/iskra/gitlense/src/format/format.cpp",
+  "file": "/home/iskra/gitlense/src/format/format.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/format/format.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/history.cpp.o -c /home/iskra/gitlense/src/analysis/history.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/history.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/history.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/line_counts.cpp.o -c /home/iskra/gitlense/src/analysis/line_counts.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/line_counts.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/line_counts.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/contributors.cpp.o -c /home/iskra/gitlense/src/analysis/contributors.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/contributors.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/contributors.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/languages.cpp.o -c /home/iskra/gitlense/src/analysis/languages.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/languages.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/languages.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/hotspots.cpp.o -c /home/iskra/gitlense/src/analysis/hotspots.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/hotspots.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/hotspots.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/analysis/activity.cpp.o -c /home/iskra/gitlense/src/analysis/activity.cpp",
+  "file": "/home/iskra/gitlense/src/analysis/activity.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/analysis/activity.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/cli/args.cpp.o -c /home/iskra/gitlense/src/cli/args.cpp",
+  "file": "/home/iskra/gitlense/src/cli/args.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/cli/args.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles/gitlense_core.dir/src/cli/progress.cpp.o -c /home/iskra/gitlense/src/cli/progress.cpp",
+  "file": "/home/iskra/gitlense/src/cli/progress.cpp",
+  "output": "CMakeFiles/gitlense_core.dir/src/cli/progress.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/registry.cpp.o -c /home/iskra/gitlense/src/commands/registry.cpp",
+  "file": "/home/iskra/gitlense/src/commands/registry.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/registry.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_log.cpp.o -c /home/iskra/gitlense/src/commands/cmd_log.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_log.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_log.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_show.cpp.o -c /home/iskra/gitlense/src/commands/cmd_show.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_show.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_show.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_file.cpp.o -c /home/iskra/gitlense/src/commands/cmd_file.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_file.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_file.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_branches.cpp.o -c /home/iskra/gitlense/src/commands/cmd_branches.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_branches.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_branches.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_diff.cpp.o -c /home/iskra/gitlense/src/commands/cmd_diff.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_diff.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_diff.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_contributors.cpp.o -c /home/iskra/gitlense/src/commands/cmd_contributors.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_contributors.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_contributors.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_languages.cpp.o -c /home/iskra/gitlense/src/commands/cmd_languages.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_languages.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_languages.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_hotspots.cpp.o -c /home/iskra/gitlense/src/commands/cmd_hotspots.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_hotspots.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_hotspots.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_activity.cpp.o -c /home/iskra/gitlense/src/commands/cmd_activity.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_activity.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_activity.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_shortlog.cpp.o -c /home/iskra/gitlense/src/commands/cmd_shortlog.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_shortlog.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_shortlog.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_search.cpp.o -c /home/iskra/gitlense/src/commands/cmd_search.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_search.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_search.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense_commands.dir/src/commands/cmd_graph.cpp.o -c /home/iskra/gitlense/src/commands/cmd_graph.cpp",
+  "file": "/home/iskra/gitlense/src/commands/cmd_graph.cpp",
+  "output": "CMakeFiles/gitlense_commands.dir/src/commands/cmd_graph.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/gitlense.dir/src/main.cpp.o -c /home/iskra/gitlense/src/main.cpp",
+  "file": "/home/iskra/gitlense/src/main.cpp",
+  "output": "CMakeFiles/gitlense.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/main.cpp.o -c /home/iskra/gitlense/tests/main.cpp",
+  "file": "/home/iskra/gitlense/tests/main.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/main.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/test_format.cpp.o -c /home/iskra/gitlense/tests/test_format.cpp",
+  "file": "/home/iskra/gitlense/tests/test_format.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/test_format.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/test_table.cpp.o -c /home/iskra/gitlense/tests/test_table.cpp",
+  "file": "/home/iskra/gitlense/tests/test_table.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/test_table.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/test_language.cpp.o -c /home/iskra/gitlense/tests/test_language.cpp",
+  "file": "/home/iskra/gitlense/tests/test_language.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/test_language.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/test_args.cpp.o -c /home/iskra/gitlense/tests/test_args.cpp",
+  "file": "/home/iskra/gitlense/tests/test_args.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/test_args.cpp.o"
+},
+{
+  "directory": "/home/iskra/gitlense/build/tests",
+  "command": "/usr/bin/c++ -DGITLENSE_VERSION=\\\"0.1.0\\\" -I/home/iskra/gitlense/tests/../src -I/home/iskra/gitlense/src -isystem /home/iskra/.local/gitlense-deps/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -o CMakeFiles/gitlense_tests.dir/test_oid.cpp.o -c /home/iskra/gitlense/tests/test_oid.cpp",
+  "file": "/home/iskra/gitlense/tests/test_oid.cpp",
+  "output": "tests/CMakeFiles/gitlense_tests.dir/test_oid.cpp.o"
+}
+]
