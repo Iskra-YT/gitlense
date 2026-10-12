@@ -75,6 +75,10 @@ ctest --test-dir build --output-on-failure
 
 Lub bezpośrednio: `./build/tests/gitlense_tests`.
 
+## Lista języków
+
+Pełna lista rozpoznawanych języków w pliku `LANGUAGES.md`.
+
 ## Uwagi
 
 - Wszystkie napisy użytkownika oraz komentarze kodu są w języku polskim.
