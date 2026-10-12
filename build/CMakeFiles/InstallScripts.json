@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/iskra/gitlense/build/cmake_install.cmake",
-		"/home/iskra/gitlense/build/tests/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
